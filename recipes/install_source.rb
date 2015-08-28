@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 
-include_recipe "java"
+include_recipe "java_ibm"
 include_recipe "ark"
 
 ark "ant" do
