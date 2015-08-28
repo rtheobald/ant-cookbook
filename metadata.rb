@@ -11,5 +11,5 @@ end
 
 recipe "ant::default", "Installs and configures Ant"
 
-depends "java"
+depends "java_ibm"
 depends "ark"
